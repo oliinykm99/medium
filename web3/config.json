@@ -1,0 +1,27 @@
+{
+  "contracts": {
+    "ETH": {
+      "priceFeed": "0x3279e2B49ff60dAFb276FBAFF847383B67a7ec2d",
+      "sortedTroves": "0x879474Cfbb980fB6899aaaA9b5D5EE14fFbF85A9",
+      "troveManager": "0x81D78814DF42DA2caB0E8870C477bC3Ed861DE66",
+      "troveNFT": "0x84eD456a8074652130dFC4FE1fadb140e0F8ce2b"
+    },
+    "wstETH": {
+      "priceFeed": "0x4c275608887ad2eB049d9006E6852BC3ee8A00Fa",
+      "sortedTroves": "0x15DDA27e28F49c392067f285157b82C1a4539978",
+      "troveManager": "0xb47eF60132dEaBc89580Fd40e49C062D93070046",
+      "troveNFT": "0xF7CF4EFcdAAcAb0c3F21931501133501fff51781"
+    },
+    "rETH": {
+      "priceFeed": "0x93d3a2234e67C2aD494735cd6676fb4b79a6De97",
+      "sortedTroves": "0x581705163884Ae5F21e946CDc9888BDCb2Ed0C0a",
+      "troveManager": "0xde026433882a9DdED65cAc4FfF8402FAFFF40FcA",
+      "troveNFT": "0xeE922ebafE945b4F933Cd556F8D9a006fB3B8192"
+    }
+  },
+  "erc20_tokens": {
+    "ETH": "0xaCece9a6fF7fEa9b9e1CDfEEE61CA2B45cc4627b",
+    "wstETH": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "rETH": "0xae78736Cd615f374D3085123A210448E74Fc6393"
+  }
+}
